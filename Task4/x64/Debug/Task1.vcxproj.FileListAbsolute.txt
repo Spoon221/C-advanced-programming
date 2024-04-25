@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\проги\учеба\Task1\x64\Debug\Task1.exe
+C:\Users\Admin\Desktop\проги\учеба\Task2\x64\Debug\Task1.exe
+C:\Users\Admin\Desktop\проги\учеба\Task3\x64\Debug\Task1.exe
